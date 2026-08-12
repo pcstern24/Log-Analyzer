@@ -1,3 +1,4 @@
+//Example input file for program
 2026-08-12 08:15:23 INFO Login successful user=patrick ip=192.168.1.10
 2026-08-12 08:17:45 INFO Login successful user=john ip=192.168.1.25
 2026-08-12 08:21:10 WARN Failed login user=admin ip=192.168.1.50
@@ -5,16 +6,16 @@
 2026-08-12 08:21:25 WARN Failed login user=admin ip=192.168.1.50
 2026-08-12 08:21:32 WARN Failed login user=admin ip=192.168.1.50
 2026-08-12 08:21:40 WARN Failed login user=admin ip=192.168.1.50
-2026-08-12 08:22:05 INFO Login successful user=sarah ip=192.168.1.30
+2026-08-12 08:22:05 INFO Login successful user=marina ip=192.168.1.30
 2026-08-12 08:25:17 ERROR Database connection failed
-2026-08-12 08:27:43 INFO Login successful user=mike ip=192.168.1.45
+2026-08-12 08:27:43 INFO Login successful user=andy ip=192.168.1.45
 2026-08-12 08:31:22 WARN Failed login user=root ip=10.0.0.15
 2026-08-12 08:31:29 WARN Failed login user=root ip=10.0.0.15
 2026-08-12 08:31:36 WARN Failed login user=root ip=10.0.0.15
 2026-08-12 08:35:11 INFO Login successful user=patrick ip=192.168.1.10
 2026-08-12 08:40:55 ERROR Unauthorized database access
-2026-08-12 08:42:19 INFO Login successful user=john ip=192.168.1.25
+2026-08-12 08:42:19 INFO Login successful user=hagan ip=192.168.1.25
 2026-08-12 08:45:33 WARN Failed login user=administrator ip=172.16.0.20
 2026-08-12 08:45:40 WARN Failed login user=administrator ip=172.16.0.20
-2026-08-12 08:45:47 INFO Login successful user=sarah ip=192.168.1.30
+2026-08-12 08:45:47 INFO Login successful user=marina ip=192.168.1.30
 2026-08-12 08:50:02 ERROR Network timeout
